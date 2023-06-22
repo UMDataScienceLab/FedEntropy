@@ -1,4 +1,4 @@
-# Consensus_Bayesian_Opt
+# FedEntropy
 
 Code for the paper entitled "Federated Condition Monitoring Signal Prediction with Improved Generalization"
 
